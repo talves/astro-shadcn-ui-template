@@ -17,7 +17,7 @@ npm install @radix-ui/react-alert-dialog
 ```
 
 ```
-npm install tailwindcss-animate class-variance-authority clsx tailwind-merge lucide
+npm install tailwindcss-animate class-variance-authority clsx tailwind-merge lucide-react
 ```
 
 ## 🚀 Project Structure
