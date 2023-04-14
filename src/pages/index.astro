@@ -1,5 +1,6 @@
 ---
 import { AlertDialogDemo } from "@/components/AlertDialogDemo"
+import ThemeToggle from "@/components/ui/theme-toggle.astro"
 ---
 
 <html lang="en">
@@ -13,5 +14,6 @@ import { AlertDialogDemo } from "@/components/AlertDialogDemo"
 	<body class="bg-slate-200 dark:bg-slate-800 p-5 font-normal text-slate-800 dark:text-slate-200">
 		<h1>Astro</h1>
 		<div class="mt-5"><AlertDialogDemo client:load /></div>
+		<div class="mt-5"><ThemeToggle /></div>
 	</body>
 </html>
